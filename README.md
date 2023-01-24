@@ -9,3 +9,5 @@ Digitial clock created in HTML/CSS with JavaScript functionality.
 <h2>Technology</h2>
 HTML, CSS, JavaScript
 
+<p>View a live verson at <a href='https://npicciano79.github.io/JavaScriptClock/'>here</a>
+
