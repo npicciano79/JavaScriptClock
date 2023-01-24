@@ -1,0 +1,13 @@
+.root{
+    margin: 0;
+    box-sizing: border-box;
+    padding:0px;
+}
+body{
+    background:linear-gradient(to right,#C94AEF,#4A58EF,#ACADB8);
+                
+    font-size: 60px;       
+    text-align: center;
+    justify-content: center; 
+               
+}
